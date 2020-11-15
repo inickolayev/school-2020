@@ -1,0 +1,3 @@
+[submodule "Libs/acm-test-generator"]
+	path = Libs/acm-test-generator
+	url = git@github.com:inickolayev/acm-test-generator.git
